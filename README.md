@@ -1,3 +1,3 @@
 2016XXX - Sheayun Lee
 
-Kookmin Univ. CS
+Kookmin Univ. School of Computer Science
